@@ -17,7 +17,7 @@ A passionate full-stack developer who builds sleek and scalable React apps with 
 ## 🚀 My Projects
 - [eCommerce Platform](https://github.com/SyedJoN/eCommerceWeb) – Vendor dashboard & customer-facing UI
 - [Facebook Clone](https://github.com/SyedJoN/facebook-clone) – Pixel-perfect Facebook clone including custom scrollbars.
-- [Video App (Frontend)](https://github.com/SyedJoN/javascript-react-frontend) / [Backend](https://github.com/SyedJoN/javascript-backend) – YouTube-style video platform
+- [Video App (Frontend)](https://github.com/SyedJoN/javascript-react-frontend) / [Backend](https://github.com/SyedJoN/javascript-backend) – YouTube-style video platform (In progress)
 
 ---
 
