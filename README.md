@@ -1,32 +1,35 @@
-# Hi, I'm SyedJoN! 👋
+## 👋 Hi there, I'm Jon
 
-I'm a passionate full-stack developer who loves building clean and efficient web apps.
+A passionate full-stack developer who builds sleek and scalable React apps with robust backend integration.
 
----
-
-### 🔧 Tech Stack
-- **Frontend:** React.js, Tailwind CSS, Material UI
-- **State Management:** Redux Toolkit, Context API, TanStack Query
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
+![Profile views](https://komarev.com/ghpvc/?username=SyedJoN&color=blue)
 
 ---
 
-### 🛠️ Tools & Practices
-- Git & GitHub
-- Responsive Design
-- Performance Optimization
-- Clean Code & Best Practices
+## 🤔 What I'm doing
+- Developing full-stack applications with **React**, **Node.js**, **MongoDB**
+- Styling with **Tailwind CSS**, **Material UI**, and **Bootstrap**
+- Managing state using **Redux Toolkit**, **Context API**, and **TanStack Query**
+- Continuously learning and improving my dev workflow
 
 ---
 
-### 🚀 Projects
-- [eCommerce Platform](https://github.com/SyedJoN/eCommerceWeb) – Fully-featured site with vendor dashboard.
-- [Social Media App](https://github.com/SyedJoN/facebook-clone) – Pixel-perfect Facebook Clone.
-- [Video App (Frontend)](https://github.com/SyedJoN/javascript-react-frontend) / [Backend](https://github.com/SyedJoN/javascript-backend) – Full-fledged YouTube-inspired app.
+## 🚀 My Projects
+- [eCommerce Platform](https://github.com/SyedJoN/eCommerceWeb) – Vendor dashboard & customer-facing UI
+- [Facebook Clone](https://github.com/SyedJoN/facebook-clone) – Pixel-perfect Facebook clone including custom scrollbars.
+- [Video App (Frontend)](https://github.com/SyedJoN/javascript-react-frontend) / [Backend](https://github.com/SyedJoN/javascript-backend) – YouTube-style video platform
 
 ---
 
-### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/syed-muhammad-jon)
-- **Email:** muhammadjoncs16@gmail.com
+## 📬 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-jon)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:muhammadjoncs16@gmail.com)
+
+---
+
+## ☕ Support My Work
+If you like what I do, consider buying me a coffee or showing support through any means!
+
+---
+
+> Built with love and React magic!
