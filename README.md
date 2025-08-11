@@ -7,7 +7,7 @@ A passionate mern-stack developer who builds sleek and scalable React apps with 
 ---
 
 ## 🤔 What I'm doing
-- Developing full-stack applications with **React**, **Node.js**, **MongoDB**
+- Developing scalable applications with **React**, **Node.js**, **MongoDB**
 - Styling with **Tailwind CSS**, **Material UI**, and **Bootstrap**
 - Managing state using **Redux Toolkit**, **Context API**, and **TanStack Query**
 - Continuously learning and improving my dev workflow
