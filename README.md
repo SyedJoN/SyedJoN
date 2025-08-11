@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Jon
 
-A passionate full-stack developer who builds sleek and scalable React apps with robust backend integration.
+A passionate mern-stack developer who builds sleek and scalable React apps with robust backend integration.
 
 ![Profile views](https://komarev.com/ghpvc/?username=SyedJoN&color=blue)
 
